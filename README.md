@@ -2,7 +2,7 @@
 By: Name1, Name2, Name3
 Workshop Date: 1/1/11
 
-## Workshop Goal: 
+## Workshop Goal(s): 
 Set up a repository structure to encourage a consistent standard for workshop creation.
 
 ## For UC Berkeley Students: [Datahub Link]()
