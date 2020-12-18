@@ -10,4 +10,4 @@ Update this to be the same as the goals in the notebook.
 
 ## For everyone else: [![Binder](https://mybinder.org/badge_logo.svg)]()
 
-Click [here]() to learn how to create the Datahub and Binder links for workshop attendees to use.
+Click [here](NOTEBOOK-LINKS.md) to learn how to create the Datahub and Binder links for workshop attendees to use.
