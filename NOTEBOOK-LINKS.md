@@ -1,3 +1,5 @@
+## Delete this file after you use the template to create another workshop.
+
 ## Datahub
 
 This link only works for people with access to the Berkeley Datahub. This method is easy -- it just requires you to put the link together manually.
