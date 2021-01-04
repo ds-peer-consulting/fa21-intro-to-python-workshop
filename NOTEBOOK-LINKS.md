@@ -5,15 +5,14 @@
 This link only works for people with access to the Berkeley Datahub. This method is easy -- it just requires you to put the link together manually.
 
 Steps:
-1. https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=
+1. https://datahub.berkeley.edu/hub/user-redirect/interact?account=ds-peer-consulting&repo=
 2. Name of repository, i.e. if the URL is https://github.com/ds-peer-consulting/workshop-template, the name is workshop-template
 3. &subpath=
 4. Name of notebook, i.e. sample-notebook-structure(ANSWERS).ipynb
 
 Concatenate 1-4 and you have your url.
 
-[Example](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=workshop-template&subpath=sample-notebook-structure(ANSWERS).ipynb)
-
+[Example](https://datahub.berkeley.edu/hub/user-redirect/interact?account=ds-peer-consulting&repo=workshop-template&subpath=sample-notebook-structure(ANSWERS).ipynb)
 
 ## Binder
 
