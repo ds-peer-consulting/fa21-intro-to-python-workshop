@@ -7,7 +7,7 @@ This link only works for people with access to the Berkeley Datahub. This method
 Steps:
 1. https://datahub.berkeley.edu/hub/user-redirect/interact?account=ds-peer-consulting&repo=
 2. Name of repository, i.e. if the URL is https://github.com/ds-peer-consulting/workshop-template, the name is workshop-template
-3. &subpath=
+3. &branch=main&subpath=
 4. Name of notebook, i.e. sample-notebook-structure(ANSWERS).ipynb
 
 Concatenate 1-4 and you have your url.
