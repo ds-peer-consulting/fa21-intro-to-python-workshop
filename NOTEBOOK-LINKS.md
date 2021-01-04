@@ -12,7 +12,8 @@ Steps:
 
 Concatenate 1-4 and you have your url.
 
-[Example](https://datahub.berkeley.edu/hub/user-redirect/interact?account=ds-peer-consulting&repo=workshop-template&subpath=sample-notebook-structure(ANSWERS).ipynb)
+[Example](http://datahub.berkeley.edu/user-redirect/interact?account=ds-peer-consulting&repo=fa20-intro-to-python-dataviz-workshop&branch=master&subpath=)
+- note that if you don't provide a subpath, it just opens the folder
 
 ## Binder
 
