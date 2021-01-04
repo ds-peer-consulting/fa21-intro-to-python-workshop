@@ -12,6 +12,9 @@ Steps:
 
 Concatenate 1-4 and you have your url.
 
+[Example](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=workshop-template&subpath=sample-notebook-structure(ANSWERS).ipynb)
+
+
 ## Binder
 
 This link works for anyone! This requires you to go to https://mybinder.org/ and filling in the information. You may run into some environment building problems, which will require you to write a .yml file that describes the packages you are using.
