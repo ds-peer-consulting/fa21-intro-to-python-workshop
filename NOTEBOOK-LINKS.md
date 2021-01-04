@@ -6,7 +6,7 @@ This link only works for people with access to the Berkeley Datahub. This method
 
 Steps:
 1. https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=
-2. URL of repository, i.e. https://github.com/ds-peer-consulting/workshop-template
+2. Name of repository, i.e. if the URL is https://github.com/ds-peer-consulting/workshop-template, the name is workshop-template
 3. &subpath=
 4. Name of notebook, i.e. sample-notebook-structure(ANSWERS).ipynb
 
