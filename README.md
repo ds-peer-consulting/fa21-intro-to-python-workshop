@@ -1,4 +1,4 @@
-# Workshop Name
+# Intro to Python
 By: Yash Wagh, Adrian Zhang, Anderson Lam, Richa Bhattacharya
 Workshop Date: 1/19/2021
 
