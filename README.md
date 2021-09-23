@@ -1,6 +1,6 @@
 # Intro to Python
-By: Yash Wagh, Adrian Zhang, Anderson Lam, Richa Bhattacharya
-Workshop Date: 1/19/2021
+By: Mein Lee, Spender Le, Jun Park, Richa Bhattacharya
+Workshop Date: 9/22/2021
 
 ## Workshop Goal(s): 
 Set up a repository structure to encourage a consistent standard for workshop creation.
