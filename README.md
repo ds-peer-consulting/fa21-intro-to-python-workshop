@@ -1,6 +1,6 @@
 # Intro to Python
 By: Spencer Le, Mein Lee, Jun Park, Richa Bhattacharya
-Workshop Date: 9/22/2021
+Workshop Date: 9/27/2021
 
 ## UC Berkeley Students Click Here: [Datahub Link](http://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-peer-consulting/fa21-intro-to-python-workshop&branch=main&subpath=intro-to-python.ipynb)
 
