@@ -2,7 +2,7 @@
 By: Spencer Le, Mein Lee, Jun Park, Richa Bhattacharya
 Workshop Date: 9/22/2021
 
-## For UC Berkeley Students: [Datahub Link](http://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-peer-consulting/fa21-intro-to-python-workshop&branch=main&subpath=intro-to-python.ipynb)
+## UC Berkeley Students Click Here: [Datahub Link](http://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-peer-consulting/fa21-intro-to-python-workshop&branch=main&subpath=intro-to-python.ipynb)
 
 ## For everyone else: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-peer-consulting/fa21-intro-to-python-workshop/HEAD)
 
