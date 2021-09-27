@@ -8,6 +8,5 @@ Update this to be the same as the goals in the notebook.
 
 ## [Datahub Link](http://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-peer-consulting/fa21-intro-to-python-workshop&branch=main&subpath=intro-to-python.ipynb)
 
-## -- Links to upload after the workshop:
-[Workshop Recording]
-[Transcript of Recording]
+[Workshop Recording -- will upload after workshop]
+[Transcript of Recording --  will upload after workshop]
