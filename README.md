@@ -6,7 +6,6 @@ Workshop Date: 9/27/2021
 
 ## For everyone else: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-peer-consulting/fa21-intro-to-python-workshop/HEAD)
 
-## To be updated after the workshop:
-[Workshop Recording](https://drive.google.com/file/d/1GnRMM7peWkbk4dvQKgrM4bzlV72AgeJQ/view?usp=sharing)  
-[Transcript of Recording](https://drive.google.com/file/d/14AYITQbj1_6PFGz3-R3TvcN3E0kD0C07/view?usp=sharing)
+## Recording and Transcript: [Click Here]( https://drive.google.com/drive/folders/1qIrX4ISE7bKu13lBf2ctMSyviaHVah52?usp=sharing)
+
 
